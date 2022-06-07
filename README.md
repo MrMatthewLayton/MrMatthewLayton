@@ -2,7 +2,7 @@
 
 My name is Matt Layton. I'm a professional software engineer with a passion for crafting clean, scalable and elegant enterprise solutions. I'm meticulous about code quality and maintainability, applying industry standard patterns and principles. I'm particularly interested in blockchain, distributed ledger technology and applied cryptography, and I contribute to the open-source ecosystem through an organisation called ONIXLabs.
 
-## 🇬🇧 About Me
+## 🇬🇧 About Me
 
 👨🏼‍💻 Principal engineer at R3, working on Corda, Digital Assets and Stablecoins.
 
