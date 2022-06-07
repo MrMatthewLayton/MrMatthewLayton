@@ -1,12 +1,12 @@
 # 👋🏻 Hello, World!
 
-My name is Matt Layton. I'm a professional software engineer with a passion for crafting clean, scalable and elegant enterprise solutions. I'm meticulous about code quality and maintainability, applying industry standard patterns and principles. I'm particularly interested in blockchain, distributed ledger technology and applied cryptography, and I contribute to the open-source ecosystem through an organisation called ONIXLabs.
+My name is Matt Layton. I'm a professional software engineer with a passion for crafting clean, scalable and elegant enterprise solutions. I'm meticulous about code quality and maintainability, applying industry standard patterns and principles. I'm particularly interested in blockchain, distributed ledger technology and applied cryptography, and I contribute to the open-source ecosystem through an organisation called [ONIXLabs](https://www.onixlabs.io/).
 
 ## 🇬🇧 About Me
 
-👨🏼‍💻 Principal engineer at R3, working on Corda, Digital Assets and Stablecoins.
+👨🏼‍💻 Principal engineer at [R3](https://www.r3.com/), working on [Corda](https://www.corda.net/), Digital Assets and Stablecoins.
 
-👨🏼‍💻 Director and engineering lead at ONIXLabs, working on open-source libraries and frameworks.
+👨🏼‍💻 Director and engineering lead at [ONIXLabs](https://www.onixlabs.io/), working on open-source libraries and frameworks.
 
 👨🏼‍🎓 Batchelor's degree in Computer Science.
 
@@ -23,8 +23,6 @@ I'm also available by email: [matthew.layton@live.co.uk](mailto:matthew.layton@l
 ## 📊 My GitHub Statistics
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrMatthewLayton&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMatthewLayton&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MrMatthewLayton&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMatthewLayton&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </div>
-
-![](https://raw.githubusercontent.com/MrMatthewLayton/MrMatthewLayton/main/content/images/coding.gif)
