@@ -14,7 +14,7 @@ An accomplished software engineer with a strong dedication to developing robust 
 
 ☑️ **Language Proficiency:** C#, Java, Kotlin and TypeScript.
 
-## 👨🏼‍💻 Expertise
+## 👨🏼‍💻 Expertise
 
 ☑️ **Building Distributed Systems:** Expertise in Blockchain, DLT, and secure transaction processing.
 
