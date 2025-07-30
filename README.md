@@ -1,4 +1,4 @@
-![Header](content/images/header.png)
+![Header](content/images/header.jpeg)
 
 # Matthew Layton
 
