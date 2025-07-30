@@ -11,6 +11,7 @@ Distinguished, innovative, and results-driven Software Engineer with deep expert
 ### Principal Engineer at Contxt Network
 
 **A paradigm-shift in recruitment and talent acquisition through graph-based trust networks.**
+
 From June 2024 until September 2024
 
 Architected and built a full-stack platform using C#, ASP.NET, and Blazor. Implemented a graph-based data model with Neo4j to support complex relationship queries. Delivered a containerised system with unified frontend/backend logic and real-time graph traversal capabilities.
@@ -18,6 +19,7 @@ Architected and built a full-stack platform using C#, ASP.NET, and Blazor. Imple
 ### Principal Engineer at R3
 
 **Enterprise distributed ledger, stablecoins, and CBDC for regulated financial markets.**
+
 From September 2021 until May 2024
 
 Led development of enterprise blockchain and digital currency infrastructure using Kotlin, Corda, and Spring Boot. Rebuilt a stablecoin platform, contributed to the Corda 5 ledger API, and created open-source tools for state/contract testing. Architected a geo-distributed CBDC system for the UAE central bank using actor-based design.
@@ -25,6 +27,7 @@ Led development of enterprise blockchain and digital currency infrastructure usi
 ### Technical Lead at Ivno
 
 **A world-first in collateral-backed stablecoins at the dawn of the cryptocurrency revolution.**
+
 From January 2020 until September 2021
 
 Led the transformation of a prototype into a production-ready stablecoin platform using Kotlin, Corda, and Spring Boot. Integrated DASL for enhanced token management and Ethereum interoperability. Delivered features for identity, membership, and governance with ONIXLabs libraries. Contributed full-stack with an Angular/TypeScript frontend and API-driven backend.
@@ -32,6 +35,7 @@ Led the transformation of a prototype into a production-ready stablecoin platfor
 ### Blockchain Engineering Lead at Marco Polo Network
 
 **Revolutionising the world of trade finance with blockchain and distributed ledger technology.**
+
 From December 2016 until January 2020
 
 Developed microservice-based trade finance solutions using C#, .NET Core, RabbitMQ, and Angular. Transitioned to blockchain engineering with Hyperledger Fabric (Go), then led a successful pivot to Corda by delivering a Kotlin-based MVP. Refactored the Corda codebase into modular, reusable components, laying the groundwork for ONIXLabs open-source libraries and extending platform capabilities across multiple trade finance products.
