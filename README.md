@@ -8,6 +8,14 @@ Distinguished, innovative, and results-driven Software Engineer with deep expert
 
 ## Employment History
 
+### Architect at FluidTech
+
+**AI powered development and AI driven software.**
+
+From March 2026
+
+Specializing in the architecture and engineering of agentic AI systems, delivering AI-driven development and modern web platforms with Python, React, Next.js, and Tailwind to power innovative financial technology.
+
 ### Principal Engineer at Contxt Network
 
 **A paradigm-shift in recruitment and talent acquisition through graph-based trust networks.**
@@ -32,7 +40,7 @@ From January 2020 until September 2021
 
 Led the transformation of a prototype into a production-ready stablecoin platform using Kotlin, Corda, and Spring Boot. Integrated DASL for enhanced token management and Ethereum interoperability. Delivered features for identity, membership, and governance with ONIXLabs libraries. Contributed full-stack with an Angular/TypeScript frontend and API-driven backend.
 
-### Blockchain Engineering Lead at Marco Polo Network
+### Blockchain Lead at Marco Polo Network
 
 **Revolutionising the world of trade finance with blockchain and distributed ledger technology.**
 
@@ -66,11 +74,13 @@ Aero includes secure, pluggable serialisation (JSON, MessagePack), integration w
 
 ## Artificial Intelligence Statement
 
-AI tools have become a valuable part of modern software engineering, supporting ideation, research, and productivity. I actively incorporate platforms like ChatGPT, Gemini, Claude, and DeepSeek into my workflow, particularly for exploratory or design-heavy tasks where rapid iteration and perspective-shifting are beneficial. Additionally, I’ve participated in early adoption of experimental platforms such as Metaphor (M6R) and Humbug, developed by former R3 leadership, which explore advanced prompt design, feedback loops, and multi-AI collaboration.
+Artificial intelligence is now a core part of my software engineering workflow. I actively integrate platforms such as ChatGPT, Gemini, Claude, and DeepSeek for ideation, research, architectural exploration, and problem-solving. I also use IDE-integrated tools such as Codex and Claude Code, allowing AI to participate directly in development through code generation, refactoring, and analysis.
 
-My approach to AI integration is structured and intentional. I avoid IDE-integrated AI tools, as in-line suggestions often introduce noise or disrupt complex cognitive processes. By interacting with AI outside the development environment, I maintain focus and treat assistance as an explicit, purposeful step rather than passive background automation.
+Rather than treating AI as a separate step, I incorporate it as a collaborative layer within the engineering process. This enables faster experimentation, broader design exploration, and more efficient implementation, while maintaining full developer oversight and responsibility for system architecture and code quality.
 
-Security and IP protection are also key considerations. I limit the exposure of sensitive or proprietary code to AI systems, aligning usage with ethical and contractual responsibilities. In essence, I see AI as a powerful augmentative tool, valuable when used thoughtfully, but never a substitute for sound engineering judgment or domain expertise.
+I have also explored emerging AI tooling and experimental platforms such as Metaphor (M6R) and Humbug, developed by former R3 leadership, which focus on advanced prompting techniques, structured feedback loops, and multi-model collaboration.
+
+Security, intellectual property protection, and responsible use remain central considerations. I exercise careful judgment when interacting with AI systems to ensure alignment with professional, contractual, and ethical obligations. Ultimately, I view AI as a transformative capability within modern software engineering—one that augments developer effectiveness and expands what teams can build.
 
 ## Is HTML a Programming Language?
 
@@ -85,10 +95,3 @@ When I worked for Monarch Airlines, I made a game based on Flappy Bird. This was
 As it's entirely HTML, CSS, and a mere 77 lines of JavaScript, you can play it online.
 
 [repository](https://github.com/MrMatthewLayton/monarch-flappy-plane) | [let's play](https://mrmatthewlayton.github.io/monarch-flappy-plane/)
-
-## GitHub Statistics
-
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MrMatthewLayton&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMatthewLayton&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</div>
